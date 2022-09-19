@@ -23,3 +23,4 @@ def disappearance():
 disappearance()
 def save():
     print("世界を改変しようとした長門に対して改変を治す薬を打ち世界を元に戻す。")
+save()
